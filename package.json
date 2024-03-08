@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-image-gallery-component",
+  "version": "1.0.0",
+  "description": "One Dionys (Image Gallery Component) - Component to display an image gallery with navigation and zoom features.",
+  "main": "src/imageGallery.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-image-gallery-component.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "image-gallery-component"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-image-gallery-component/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-image-gallery-component#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-analytics-integration": "^1.0.0",
+    "onedionys-input-autocomplete": "^1.0.0",
+    "onedionys-progress-bar-component": "^1.0.0",
+    "onedionys-social-sharing-utilities": "^1.0.0",
+    "onedionys-websocket-wrapper": "^1.0.0"
+  }
+}
