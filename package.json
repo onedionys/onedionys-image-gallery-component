@@ -1,6 +1,6 @@
 {
   "name": "onedionys-image-gallery-component",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Image Gallery Component) - Component to display an image gallery with navigation and zoom features.",
   "main": "src/imageGallery.js",
   "directories": {
